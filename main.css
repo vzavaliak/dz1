@@ -1,0 +1,20 @@
+body{
+    background: dimgray;
+}
+div{
+    background: silver;
+    color: black;
+}
+.point{
+    text-align: center;
+}
+div.target {
+    background: lightgray;
+}
+#uniq{
+    border: 10px solid silver;
+}
+.seg{
+    background: silver;
+    color: black;
+}
